@@ -1,4 +1,4 @@
-##MAPIT
+## MAPIT
 
 ## Geolocation App Documentation
 
